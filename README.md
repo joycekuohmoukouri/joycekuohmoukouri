@@ -27,4 +27,4 @@ We'll see how it goes !
 
 * [GitHub](https://github.com/joycekuohmoukouri)
 
-* [Linkedin]([https://www.linkedin.com/in/joyce-kuoh-moukouri-2a14915b/])
+* [Linkedin](https://www.linkedin.com/in/joyce-kuoh-moukouri-2a14915b/)
