@@ -20,7 +20,7 @@ We'll see how it goes !
 ## You can contact me at: 
 
 
-* [joyce.kuoh@gmail.com](joyce.kuyoh@gmail.com) 
+* [joyce.kuoh@gmail.com](joyce.kuoh@gmail.com) 
 
 
 ## And I am also on: 
