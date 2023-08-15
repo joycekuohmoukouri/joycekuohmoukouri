@@ -4,7 +4,7 @@
 
 ## [Data Science](datascience.md) • [Creative Projects](General-Audience.md) • [Resume.s](Resume.md)
 
------------------
+----------------
 
 ## About me 
 
