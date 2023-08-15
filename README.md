@@ -2,7 +2,7 @@
 ## Engineer | Data Scientist | Filmmaker
 -----------------
 
-## [Data Science](datascience.md) • [Creative Projects](General-Audience.md) • [Resume]
+## [Data Science](datascience.md) • [Creative Projects](General-Audience.md) • [Resume.s](Resume.md)
 
 -----------------
 
