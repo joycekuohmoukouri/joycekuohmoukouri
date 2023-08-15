@@ -1,8 +1,8 @@
 # **Joyce Kuoh Moukouri**
-## Engineer | Data Scientist | Filmmaker
+## Engineer | Data Scientist
 -----------------
 
-## [Data Science](datascience.md) • [Creative Projects](General-Audience.md) • [Resume](CV_JKM_2023_eng.pdf)
+## [Data Science](datascience.md) • [Resume](CV_JKM_2023_eng.pdf)
 
 ----------------
 
