@@ -9,11 +9,17 @@
 <body>
     <h1>Data Science Portfolio</h1>
     <div class="grid-container">
-        <a href="https://github.com/joycekuohmoukouri/project1">
+        <a href="https://github.com/joycekuohmoukouri/p7">
             <img src="DSCF3676_rog.jpeg" alt="Project 1">
         </a>
         <a href="https://github.com/joycekuohmoukouri/project2">
             <img src="DSCF3676_rog.jpeg" alt="Project 2">
+        </a>
+        <a href="https://github.com/joycekuohmoukouri/project3">
+            <img src="DSCF3676_rog.jpeg" alt="Project 1">
+        </a>
+        <a href="https://github.com/joycekuohmoukouri/project2">
+            <img src="DSCF3676_rog.jpeg" alt="Project 3">
         </a>
         <!-- Add more images and links for projects 3 to 8 -->
     </div>
