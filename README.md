@@ -1,6 +1,6 @@
    
 ----------------
-## <h2 style="color: blue;">  [Data Science](datascience.md) • [Resume](CV_JKM_2023_eng.pdf) </h2>
+## [Data Science](datascience.md) • [Resume](CV_JKM_2023_eng.pdf) 
 ----------------
 
 ## About me  
