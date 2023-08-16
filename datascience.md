@@ -33,10 +33,11 @@
             <img src="shutterstock_273975992.jpg" alt="Project 10">
         </a>
     </div>
-    <style>
+ <style>
         .grid-container {
             display: grid;
-            grid-template-columns: repeat(4, 1fr);
+            grid-template-columns: repeat(2, 1fr); /* Change to 2 columns */
+            grid-template-rows: repeat(4, 1fr); /* Change to 4 rows */
             grid-gap: 20px;
             margin-top: 20px;
         }
@@ -47,6 +48,12 @@
     </style>
 </body>
 </html>
+
+
+
+
+
+
 
 
 
