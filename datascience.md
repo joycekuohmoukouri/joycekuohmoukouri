@@ -28,6 +28,7 @@
             width: 100%;
             opacity: 0;
             transition: opacity 0.3s;
+            font-family: sans-serif; /* Add the chosen font here */
         }
         .figure-container:hover .caption {
             opacity: 1;
