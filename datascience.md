@@ -5,6 +5,9 @@
 ---
 <html>
 <head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<head>
     <style>
         .grid-container {
             display: grid;
