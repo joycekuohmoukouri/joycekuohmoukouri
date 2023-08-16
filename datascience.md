@@ -22,8 +22,8 @@
            position: absolute;
             top: 0;
             left: 0;
-            width: 70%;
-            height: 100%;
+            width: 100%;
+            height: 90%;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -50,7 +50,7 @@
             <a href="https://github.com/joycekuohmoukouri/World_bank_Ed">
                 <img src="World-Bank-2-e1602236656825-1280x720.png" alt="Project 2">
             </a>
-            <div class="caption"> Exploratory Data Analysis of the WORLD BANK education data </div>
+            <div class="caption"> Exploratory Analysis of the WORLD BANK education systems data </div>
         </div>
         <div class="figure-container">
             <a href="https://github.com/username/Snack">
@@ -62,7 +62,7 @@
             <a href="https://github.com/username/Seattle">
                 <img src="4200.jpeg" alt="Project 4">
             </a>
-            <div class="caption"> Net Zero Goal | Prediction of CO2 emissions and energy consumption of Seattle buildings </div>
+            <div class="caption"> Seattle (WA) Net Zero Goal | Prediction of CO2 emissions of Seattle buildings </div>
         </div>
         <div class="figure-container">
             <a href="https://github.com/username/Segmentation">
