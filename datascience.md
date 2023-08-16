@@ -49,15 +49,15 @@
         </figure>
         <figure>
             <a href="https://github.com/username/project4">
-                <img src="4200.jpeg" alt="Project 4">
-            </a>
-            <figcaption> Seattle (WA) net zero project </figcaption>
-        </figure>
-        <figure>
-            <a href="https://github.com/username/project4">
                 <img src="images-2.jpeg" alt="Project 4">
             </a>
             <figcaption>Project 4: Description goes here</figcaption>
+        </figure>
+        <figure>
+            <a href="https://github.com/joycekuohmoukouri/Seattle_net_zero">
+                <img src="4200.jpeg" alt="Project 4">
+            </a>
+            <figcaption> Prediction of the energy consumption and CO2 emissions of Seattle buildings </figcaption>
         </figure>
         <figure>
             <a href="https://github.com/username/project6">
