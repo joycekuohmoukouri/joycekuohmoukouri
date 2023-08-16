@@ -14,9 +14,6 @@
         <a href="https://github.com/username/project1">
             <img src="4200.jpg.webp" alt="Project 1">
         </a>
-        <a href="https://github.com/username/project2">
-            <img src="Clusterização-o-que-é-e-porque-é-tão-importante-para-o-marketing-.jpg" alt="Project 2">
-        </a>
         <a href="https://github.com/username/project4">
             <img src="images-2.jpeg" alt="Project 4">
         </a>
