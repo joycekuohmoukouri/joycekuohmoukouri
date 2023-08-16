@@ -20,10 +20,10 @@
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
-            background-color: rgba(0, 0, 0, 0.3);
+            background-color: rgba(0, 0, 0, 0.4);
             color: white;
-            padding: 6px;
-           <!--font-weight: bold; -->
+            <!-- padding: 6px; -->
+            font-weight: bold;
             text-align: center;
             width: 100%;
             opacity: 0;
@@ -69,7 +69,7 @@
             <a href="https://github.com/username/Class_1">
                 <img src="images-4.jpeg" alt="Project 6">
             </a>
-            <div class="caption">Project 6: Description goes here</div>
+            <div class="caption"> Deep learning for a multi-class classification model |  </div>
         </div>
         <div class="figure-container">
             <a href="https://github.com/username/Creditworthiness">
