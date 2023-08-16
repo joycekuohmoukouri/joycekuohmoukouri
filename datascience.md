@@ -43,27 +43,27 @@
     <div class="grid-container">
         <div class="figure-container">
             <a href="https://github.com/joycekuohmoukouri/World_bank_Ed">
-                <img src="World-Bank-2-e1602236656825-1280x720.png" alt="Project 1">
+                <img src="World-Bank-2-e1602236656825-1280x720.png" alt="Project 2">
             </a>
-            <div class="caption">EDA of the WORLD BANK education systems</div>
+            <div class="caption"> EDA of the WORLD BANK education systems data </div>
         </div>
         <div class="figure-container">
-            <a href="https://github.com/username/project10">
-                <img src="shutterstock_273975992.jpg" alt="Project 10">
+            <a href="https://github.com/username/Snack">
+                <img src="shutterstock_273975992.jpg" alt="Project 3">
             </a>
-            <div class="caption">Project 10: Description goes here</div>
+            <div class="caption"> Parisians, don't snack in the metro.  </div>
         </div>           
         <div class="figure-container">
-            <a href="https://github.com/username/project4">
+            <a href="https://github.com/username/Seattle">
                 <img src="4200.jpeg" alt="Project 4">
             </a>
-            <div class="caption">Seattle (WA) net zero project</div>
+            <div class="caption"> Seattle (WA): Objective Net Zero | Prediction of the greenhouse gaz emission and energy consumption of Seattle buildings </div>
         </div>
         <div class="figure-container">
-            <a href="https://github.com/username/project4">
-                <img src="images-2.jpeg" alt="Project 4">
+            <a href="https://github.com/username/Segmentation">
+                <img src="images-2.jpeg" alt="Project 5">
             </a>
-            <div class="caption">Project 4: Description goes here</div>
+            <div class="caption">Client segmentation | spoiler : some will always be unhappy </div>
         </div>
         <div class="figure-container">
             <a href="https://github.com/username/project6">
