@@ -93,7 +93,6 @@
             </a>
             <div class="caption">Project 9: Description goes here</div>
         </div>
-
         </div>
     </div>
 </body>
