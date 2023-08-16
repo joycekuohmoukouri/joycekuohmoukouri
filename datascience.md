@@ -1,7 +1,7 @@
 # **Joyce Kuoh Moukouri**
 -----------------
 
-## [About me](README.md) •  [Data Science](datascience.md) • [Resume]
+## [About me](README.md) •  [Data Science](datascience.md) • [Resume](Resume.md)
 
 -----------------
 
