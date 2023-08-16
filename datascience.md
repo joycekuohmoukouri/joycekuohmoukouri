@@ -10,7 +10,7 @@
             <a href="https://github.com/username/project4">
                 <img src="4200.jpeg" alt="Project 4">
             </a>
-            <figcaption>Project 4: Description goes here</figcaption>
+            <figcaption> Seattle (WA) net zero project </figcaption>
         </figure>
         <figure>
             <a href="https://github.com/username/project4">
