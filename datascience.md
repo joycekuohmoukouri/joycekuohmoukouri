@@ -80,19 +80,7 @@
             <a href="https://github.com/username/Creditworthiness">
                 <img src="images-5.jpeg" alt="Project 7">
             </a>
-            <div class="caption">Project 7: Description goes here</div>
-        </div>
-        <div class="figure-container">
-            <a href="https://github.com/username/project8">
-                <img src="images-6.jpeg" alt="Project 8">
-            </a>
-            <div class="caption">Project 8: Description goes here</div>
-        </div>
-        <div class="figure-container">
-            <a href="https://github.com/username/project9">
-                <img src="images.jpeg" alt="Project 9">
-            </a>
-            <div class="caption">Project 9: Description goes here</div>
+            <div class="caption"> Creditworthiness scoring | prediction API and Dashboard </div>
         </div>
         </div>
     </div>
