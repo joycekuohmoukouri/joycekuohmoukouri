@@ -20,9 +20,9 @@
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
-            background-color: rgba(0, 0, 0, 0.1);
+            background-color: rgba(0, 0, 0, 0.3);
             color: white;
-            padding: 10px;
+            padding: 6px;
            <!--font-weight: bold; -->
             text-align: center;
             width: 100%;
