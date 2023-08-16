@@ -5,7 +5,6 @@
 
 -----------------
 
-<!DOCTYPE html>
 <html>
 <body>
     <h1>Data Science Portfolio</h1>
