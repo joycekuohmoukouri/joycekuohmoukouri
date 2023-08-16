@@ -6,7 +6,6 @@
 -----------------
 <html>
 <body>
-    <h1>Data Science Portfolio</h1>
     <div class="grid-container">
         <a href="https://github.com/username/project1">
             <img src="4200.jpeg" alt="Project 1">
