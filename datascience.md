@@ -1,4 +1,3 @@
-# **Joyce Kuoh Moukouri**
 # Data Science Projects
 -----------------
 
