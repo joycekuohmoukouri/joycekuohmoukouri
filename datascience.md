@@ -6,6 +6,12 @@
 <html>
 <body>
    <div class="grid-container">
+      <figure>
+            <a href="https://github.com/joycekuohmoukouri/World_bank_Ed">
+                <img src="World-Bank-2-e1602236656825-1280x720.png" alt="Project 1">
+            </a>
+            <figcaption> EDA of the WORLD BANK education systems </figcaption>
+        </figure>
         <figure>
             <a href="https://github.com/username/project4">
                 <img src="4200.jpeg" alt="Project 4">
@@ -17,12 +23,6 @@
                 <img src="images-2.jpeg" alt="Project 4">
             </a>
             <figcaption>Project 4: Description goes here</figcaption>
-        </figure>
-        <figure>
-            <a href="https://github.com/joycekuohmoukouri/World_bank_Ed">
-                <img src="World-Bank-2-e1602236656825-1280x720.png" alt="Project 5">
-            </a>
-            <figcaption>Project 5: Description goes here</figcaption>
         </figure>
         <figure>
             <a href="https://github.com/username/project6">
