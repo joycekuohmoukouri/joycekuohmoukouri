@@ -11,7 +11,7 @@ Filmmaking residency at [École KOUTRAJMÉ](https://ecolekourtrajme.com), contem
 
 I searched for my hat and discovered the field of Data Science for social justice. I realized that with a Data Science specialization on top of my engineering degree, I could use my mathematical and computational skills to contribute to the on-going effort to think of more sustainable, inclusive social and economic systems, contribute and (why not ?) nourish my writing at the same time. I aspire in the long-run to work for international organizations such as OECD or Women's World Banking. 
 
-We'll see how it goes !
+We'll see how it goes!
 
 ![Alt Text](DSCF3676_rog.jpeg)
 
