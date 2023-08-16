@@ -29,8 +29,6 @@
             align-items: center;
             background-color: rgba(0, 0, 0, 0.5); /* Dark semi-transparent background */
             color: white;
- <!--             padding: 10px; -->
-            font-weight: bold;
             text-align: center;
             opacity: 0;
             transition: opacity 0.3s;
