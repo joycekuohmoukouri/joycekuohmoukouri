@@ -23,7 +23,7 @@
             background-color: rgba(0, 0, 0, 0.1);
             color: white;
             padding: 10px;
-            font-weight: bold;
+           <!--font-weight: bold; -->
             text-align: center;
             width: 100%;
             opacity: 0;
