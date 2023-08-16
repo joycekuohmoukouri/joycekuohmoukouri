@@ -4,7 +4,6 @@
 ## [About me](README.md) •  [Data Science](datascience.md) • [Resume](Resume.md)
 
 -----------------
-<!DOCTYPE html>
 <html>
 <head>
     <title>Data Science Portfolio</title>
