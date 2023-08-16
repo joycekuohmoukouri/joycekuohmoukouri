@@ -20,7 +20,7 @@
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
-            background-color: rgba(0, 0, 0, 0.7);
+            background-color: rgba(0, 0, 0, 0.1);
             color: white;
             padding: 10px;
             font-weight: bold;
