@@ -3,7 +3,7 @@
 ## [Home](README.md) • [Data Science](datascience.md) • [Resume](CV_JKM_2023_eng.pdf) 
 ----------------
 
-## About me  
+## About me
 
 After a five-years-long experience, working as a thermo-mechanical modeling engineer in the energy industry, the covid-19 pandemic led me to reflect on my impact on the world. How could I make a better use of my time and contribute to social justice and equality ? My first impulse to respond to my urgent need of purpose was to write stories and direct films depicting underrepresented journeys and their voices. Those experiments gave me the opportunity to participate in think tanks and artistic residencies. 
 
