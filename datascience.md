@@ -90,18 +90,6 @@
             <figcaption>Project 10: Description goes here</figcaption>
         </figure>
     </div>
-    <style>
-        .grid-container {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            grid-gap: 20px;
-            margin-top: 20px;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
 </body>
 </html>
 
