@@ -62,7 +62,7 @@
             <a href="https://github.com/username/Seattle">
                 <img src="4200.jpeg" alt="Project 4">
             </a>
-            <div class="caption"> Seattle (WA): Net Zero Goal | Prediction of CO2 emissions and energy consumption of Seattle buildings </div>
+            <div class="caption"> Net Zero Goal | Prediction of CO2 emissions and energy consumption of Seattle buildings </div>
         </div>
         <div class="figure-container">
             <a href="https://github.com/username/Segmentation">
