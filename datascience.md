@@ -5,37 +5,60 @@
 ---
 <html>
 <body>
-    <div class="grid-container">
-        <a href="https://github.com/username/project1">
-            <img src="4200.jpeg" alt="Project 1">
-        </a>
-        <a href="https://github.com/username/project4">
-            <img src="images-2.jpeg" alt="Project 4">
-        </a>
-        <a href="https://github.com/username/project5">
-            <img src="World-Bank-2-e1602236656825-1280x720.png" alt="Project 5">
-        </a>
-        <a href="https://github.com/username/project6">
-            <img src="images-4.jpeg" alt="Project 6">
-        </a>
-        <a href="https://github.com/username/project7">
-            <img src="images-5.jpeg" alt="Project 7">
-        </a>
-        <a href="https://github.com/username/project8">
-            <img src="images-6.jpeg" alt="Project 8">
-        </a>
-        <a href="https://github.com/username/project9">
-            <img src="images.jpeg" alt="Project 9">
-        </a>
-        <a href="https://github.com/username/project10">
-            <img src="shutterstock_273975992.jpg" alt="Project 10">
-        </a>
+   <div class="grid-container">
+        <figure>
+            <a href="https://github.com/username/project4">
+                <img src="4200.jpeg" alt="Project 4">
+            </a>
+            <figcaption>Project 4: Description goes here</figcaption>
+        </figure>
+        <figure>
+            <a href="https://github.com/username/project4">
+                <img src="images-2.jpeg" alt="Project 4">
+            </a>
+            <figcaption>Project 4: Description goes here</figcaption>
+        </figure>
+        <figure>
+            <a href="https://github.com/username/project5">
+                <img src="World-Bank-2-e1602236656825-1280x720.png" alt="Project 5">
+            </a>
+            <figcaption>Project 5: Description goes here</figcaption>
+        </figure>
+        <figure>
+            <a href="https://github.com/username/project6">
+                <img src="images-4.jpeg" alt="Project 6">
+            </a>
+            <figcaption>Project 6: Description goes here</figcaption>
+        </figure>
+        <figure>
+            <a href="https://github.com/username/project7">
+                <img src="images-5.jpeg" alt="Project 7">
+            </a>
+            <figcaption>Project 7: Description goes here</figcaption>
+        </figure>
+        <figure>
+            <a href="https://github.com/username/project8">
+                <img src="images-6.jpeg" alt="Project 8">
+            </a>
+            <figcaption>Project 8: Description goes here</figcaption>
+        </figure>
+        <figure>
+            <a href="https://github.com/username/project9">
+                <img src="images.jpeg" alt="Project 9">
+            </a>
+            <figcaption>Project 9: Description goes here</figcaption>
+        </figure>
+        <figure>
+            <a href="https://github.com/username/project10">
+                <img src="shutterstock_273975992.jpg" alt="Project 10">
+            </a>
+            <figcaption>Project 10: Description goes here</figcaption>
+        </figure>
     </div>
- <style>
+    <style>
         .grid-container {
             display: grid;
-            grid-template-columns: repeat(2, 1fr); /* Change to 2 columns */
-            grid-template-rows: repeat(4, 1fr); /* Change to 4 rows */
+            grid-template-columns: repeat(2, 1fr);
             grid-gap: 20px;
             margin-top: 20px;
         }
@@ -46,7 +69,6 @@
     </style>
 </body>
 </html>
-
 
 
 
