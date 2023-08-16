@@ -63,16 +63,16 @@
             <a href="https://github.com/username/Segmentation">
                 <img src="images-2.jpeg" alt="Project 5">
             </a>
-            <div class="caption">Client segmentation | spoiler : some will always be unhappy </div>
+            <div class="caption">Client segmentation for OLIST | spoiler : some will always be unhappy </div>
         </div>
         <div class="figure-container">
-            <a href="https://github.com/username/project6">
+            <a href="https://github.com/username/Class_1">
                 <img src="images-4.jpeg" alt="Project 6">
             </a>
             <div class="caption">Project 6: Description goes here</div>
         </div>
         <div class="figure-container">
-            <a href="https://github.com/username/project7">
+            <a href="https://github.com/username/Creditworthiness">
                 <img src="images-5.jpeg" alt="Project 7">
             </a>
             <div class="caption">Project 7: Description goes here</div>
