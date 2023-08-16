@@ -48,10 +48,10 @@
             <figcaption> EDA of the WORLD BANK education systems </figcaption>
         </figure>
         <figure>
-            <a href="https://github.com/username/project4">
+            <a href="https://github.com/joycekuohmoukouri/Snack">
                 <img src="images-2.jpeg" alt="Project 4">
             </a>
-            <figcaption>Project 4: Description goes here</figcaption>
+            <figcaption> Parisians, don't snack from the metro vending machines ! </figcaption>
         </figure>
         <figure>
             <a href="https://github.com/joycekuohmoukouri/Seattle_net_zero">
