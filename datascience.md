@@ -9,7 +9,7 @@
     <h1>Data Science Portfolio</h1>
     <div class="grid-container">
         <a href="https://github.com/username/project1">
-            <img src="4200.jpg.webp" alt="Project 1">
+            <img src="4200.jpeg" alt="Project 1">
         </a>
         <a href="https://github.com/username/project4">
             <img src="images-2.jpeg" alt="Project 4">
