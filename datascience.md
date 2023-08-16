@@ -19,16 +19,19 @@
             position: relative;
         }
         .caption {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            background-color: rgba(0, 0, 0, 0.4);
+           position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgba(0, 0, 0, 0.7); /* Dark semi-transparent background */
             color: white;
-            <!-- padding: 6px; -->
+            padding: 10px;
             font-weight: bold;
             text-align: center;
-            width: 100%;
             opacity: 0;
             transition: opacity 0.3s;
             font-family: 'Roboto Mono', monospace;sans-serif; /* Add the chosen font here */
