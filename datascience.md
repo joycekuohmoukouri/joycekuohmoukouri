@@ -82,7 +82,6 @@
             </a>
             <div class="caption"> Creditworthiness scoring | prediction API and Dashboard </div>
         </div>
-        </div>
     </div>
 </body>
 </html>
