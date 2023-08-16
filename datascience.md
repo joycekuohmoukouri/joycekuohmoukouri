@@ -1,5 +1,5 @@
-# Joyce Kuoh Moukouri
-## Data Science Projects
+# **Joyce Kuoh Moukouri**
+# Data Science Projects
 -----------------
 
 ## [About me](README.md) • [Resume](CV_JKM_2023_eng.pdf)
