@@ -4,6 +4,7 @@
 ## [About me](README.md) •  [Data Science](datascience.md) • [Resume](Resume.md)
 
 -----------------
+<!DOCTYPE html>
 <html>
 <head>
     <title>Data Science Portfolio</title>
@@ -12,28 +13,31 @@
     <h1>Data Science Portfolio</h1>
     <div class="grid-container">
         <a href="https://github.com/username/project1">
-            <img src="project1-image.jpg" alt="Project 1">
+            <img src="4200.jpg.webp" alt="Project 1">
         </a>
         <a href="https://github.com/username/project2">
-            <img src="project2-image.jpg" alt="Project 2">
-        </a>
-        <a href="https://github.com/username/project3">
-            <img src="project3-image.jpg" alt="Project 3">
+            <img src="Clusterização-o-que-é-e-porque-é-tão-importante-para-o-marketing-.jpg" alt="Project 2">
         </a>
         <a href="https://github.com/username/project4">
-            <img src="project4-image.jpg" alt="Project 4">
+            <img src="images-2.jpeg" alt="Project 4">
         </a>
         <a href="https://github.com/username/project5">
-            <img src="project5-image.jpg" alt="Project 5">
+            <img src="images-3.jpeg" alt="Project 5">
         </a>
         <a href="https://github.com/username/project6">
-            <img src="project6-image.jpg" alt="Project 6">
+            <img src="images-4.jpeg" alt="Project 6">
         </a>
         <a href="https://github.com/username/project7">
-            <img src="project7-image.jpg" alt="Project 7">
+            <img src="images-5.jpeg" alt="Project 7">
         </a>
         <a href="https://github.com/username/project8">
-            <img src="project8-image.jpg" alt="Project 8">
+            <img src="images-6.jpeg" alt="Project 8">
+        </a>
+        <a href="https://github.com/username/project9">
+            <img src="images.jpeg" alt="Project 9">
+        </a>
+        <a href="https://github.com/username/project10">
+            <img src="shutterstock_273975992.jpg" alt="Project 10">
         </a>
     </div>
     <style>
@@ -50,5 +54,6 @@
     </style>
 </body>
 </html>
+
 
 
