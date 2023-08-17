@@ -32,10 +32,6 @@
             transition: opacity 0.3s;
             font-family: 'Helvetica Neue', Arial, sans-serif;/* Add the chosen font here */
         }
-        .caption-wrapper {
-            max-width: 60%; /* Adjust the width as needed */
-            text-align: center;
-        }
         .figure-container:hover .caption {
             opacity: 1;
         }
