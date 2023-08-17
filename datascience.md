@@ -34,6 +34,10 @@
             transition: opacity 0.3s;
             font-family: 'Archivo Black';sans-serif; /* Add the chosen font here */
         }
+        .caption-wrapper {
+            max-width: 80%; /* Adjust the width as needed */
+            text-align: center;
+        }
         .figure-container:hover .caption {
             opacity: 1;
         }
