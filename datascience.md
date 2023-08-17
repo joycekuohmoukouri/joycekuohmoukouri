@@ -27,7 +27,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            background-color: rgba(0, 0, 0, 0.5); /* Dark semi-transparent background */
+            background-color: rgba(100, 0, 0, 0.5); /* Dark semi-transparent background */
             color: white;
             text-align: center;
             opacity: 0;
@@ -64,7 +64,7 @@
         <div class="figure-container">
             <a href="https://github.com/joycekuohmoukouri/Seattle_Net_Zero">
                 <img src="4200.jpeg" alt="Project 4">
-                <div class="caption"> Regression model for Seattle (WA) Net Zero Goal </div>
+                <div class="caption"> Regression model for Seattle (WA) net zero goal </div>
             </a>
         </div>
         <div class="figure-container">
