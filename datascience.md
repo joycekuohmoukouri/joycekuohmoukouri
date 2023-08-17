@@ -3,7 +3,6 @@
 ---
 ## Data Science Projects
 ---
-<!DOCTYPE html>
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="style.css">
@@ -31,7 +30,7 @@
             text-align: center;
             opacity: 0;
             transition: opacity 0.3s;
-            font-family: Arial, sans-serif;/* Add the chosen font here */
+            font-family: 'Arial', sans-serif;/* Add the chosen font here */
         }
         .figure-container:hover .caption {
             opacity: 1;
