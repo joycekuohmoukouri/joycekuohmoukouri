@@ -66,7 +66,7 @@
         </div>
         <div class="figure-container">
             <a href="https://github.com/username/Segmentation">
-                <img src="images-2.jpeg" alt="Project 5">
+                <img src="harvest-brussels-sprouts-7567350-1b2c32a48fcd41899a2d7c26379d4dc2.jpeg" alt="Project 5">
             </a>
             <div class="caption">Client segmentation for OLIST | spoiler : some will always be unhappy </div>
         </div>
