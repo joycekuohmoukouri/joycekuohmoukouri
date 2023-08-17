@@ -79,7 +79,7 @@
             <div class="caption"> Deep learning for a multi-class classification model, if it sparks joy tidy it right </div>
         </div>
         <div class="figure-container">
-            <a href="https://github.com/joycekuohmoukouri/Creditworthiness_score">
+            <a href="https://github.com/joycekuohmoukouri/Creditworthiness-scoring">
                 <img src="Coins-main.jpg" alt="Project 7">
             </a>
             <div class="caption"> Creditworthiness scoring model, Dashboard for a transparent approach </div>
