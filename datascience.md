@@ -72,7 +72,7 @@
             <a href="https://github.com/username/Segmentation">
                 <img src="harvest-brussels-sprouts-7567350-1b2c32a48fcd41899a2d7c26379d4dc2.jpeg" alt="Project 5">
             </a>
-            <div class="caption">Client segmentation for OLIST | spoiler : some will always be unhappy </div>
+            <div class="caption">Clustering model for client segmentation | spoiler : some will always be unhappy </div>
         </div>
         <div class="figure-container">
             <a href="https://github.com/username/Neural_Networks">
