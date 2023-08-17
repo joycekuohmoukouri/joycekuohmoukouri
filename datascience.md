@@ -32,7 +32,7 @@
             text-align: center;
             opacity: 0;
             transition: opacity 0.3s;
-            font-family: 'Arial', sans-serif;/* Add the chosen font here */
+            font-family: 'Archivo Black';sans-serif;
         }
         .figure-container:hover .caption {
             opacity: 1;
