@@ -77,8 +77,8 @@
             <div class="caption"> Deep learning for a multi-class classification model |  </div>
         </div>
         <div class="figure-container">
-            <a href="https://github.com/username/Creditworthiness">
-                <img src="images-5.jpeg" alt="Project 7">
+            <a href="https://github.com/username/Creditworthiness_score">
+                <img src="Coins-main.jpg" alt="Project 7">
             </a>
             <div class="caption"> Creditworthiness scoring | prediction API and Dashboard </div>
         </div>
