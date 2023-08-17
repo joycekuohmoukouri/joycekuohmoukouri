@@ -23,7 +23,7 @@
             top: 0;
             left: 0;
             width: 100%;
-            height: 50%;
+            height: 100%;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -49,8 +49,8 @@
         <div class="figure-container">
             <a href="https://github.com/joycekuohmoukouri/world_bank_ed">
                 <img src="World-Bank-2-e1602236656825-1280x720.png" alt="Project 2">
-            </a>
-            <div class="caption"> Exploratory Analysis of the WORLD BANK education data </div>
+                <div class="caption"> Exploratory Analysis of the WORLD BANK education data </div>
+            </a> 
         </div>
         <div class="figure-container">
             <a href="https://github.com/joycekuohmoukouri/snack">
