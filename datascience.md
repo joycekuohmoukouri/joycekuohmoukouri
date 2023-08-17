@@ -27,13 +27,13 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            background-color: rgba(0, 0, 120, 0.5); /* Dark semi-transparent background */
+            background-color: rgba(0, 0, 0, 0.5); /* Dark semi-transparent background */
             color: white;
             text-align: center;
             opacity: 0;
             transition: opacity 0.3s;
             font-family: Arial, sans-serif;/* Add the chosen font here */
-            padding: 10px; /* Add padding to control spacing */
+            padding: 20px; /* Add padding to control spacing */
             max-width: 100%; /* Adjust the maximum width as needed */
             box-sizing: border-box; /* Include padding in the width */
         }
