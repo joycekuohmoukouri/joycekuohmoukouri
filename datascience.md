@@ -38,9 +38,6 @@
             max-width: 60%; /* Adjust the width as needed */
             text-align: center;
         }
-        .figure-container:hover .caption {
-            opacity: 1;
-        }
         img {
             max-width: 100%;
             height: auto;
