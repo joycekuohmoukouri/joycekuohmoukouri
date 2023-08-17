@@ -71,8 +71,8 @@
             <div class="caption">Client segmentation for OLIST | spoiler : some will always be unhappy </div>
         </div>
         <div class="figure-container">
-            <a href="https://github.com/username/Class_1">
-                <img src="images-4.jpeg" alt="Project 6">
+            <a href="https://github.com/username/Neural_Networks">
+                <img src="los-pulpos-son-unos-depredadores-formidables_a96affba_1254x836.jpeg" alt="Project 6">
             </a>
             <div class="caption"> Deep learning for a multi-class classification model |  </div>
         </div>
