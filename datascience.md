@@ -3,6 +3,7 @@
 ---
 ## Data Science Projects
 ---
+<!DOCTYPE html>
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="style.css">
@@ -62,7 +63,7 @@
             <div class="caption"> Regression model for Seattle (WA) Net Zero Goal </div>
         </div>
         <div class="figure-container">
-            <a href="https://github.com/joycekuohmoukouri/Olist_client_segmentation">
+            <a href="https://github.com/joycekuohmoukouri/olist_client_segmentation">
                 <img src="harvest-brussels-sprouts-7567350-1b2c32a48fcd41899a2d7c26379d4dc2.jpeg" alt="Project 5">
             </a>
             <div class="caption">Clustering model for client segmentation, spoiler : some will always be unhappy </div>
