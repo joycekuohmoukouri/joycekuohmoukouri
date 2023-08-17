@@ -1,5 +1,5 @@
 # **Joyce Kuoh Moukouri**
-## [Home](README.md) • [Data Science Projects](datascience.md) • [Resume](CV_JKM_2023_eng_online.pdf) 
+## [Home](README.md) • [Data Science Projects](datascience.md) • [Resume](CV_JKM_2023_eng.pdf) 
 ---
 ## Data Science Projects
 ---
@@ -27,12 +27,14 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            background-color: rgba(0, 0, 120, 0.5); /* Dark semi-transparent background */
+            background-color: rgba(0, 0, 0, 0.5); /* Dark semi-transparent background */
             color: white;
+ <!--             padding: 10px; -->
+            font-weight: bold;
             text-align: center;
             opacity: 0;
             transition: opacity 0.3s;
-            font-family: 'Archivo Black';sans-serif;
+            font-family: 'Archivo Black';sans-serif; /* Add the chosen font here */
         }
         .figure-container:hover .caption {
             opacity: 1;
@@ -47,41 +49,55 @@
 <body>
     <div class="grid-container">
         <div class="figure-container">
-            <a href="https://github.com/joycekuohmoukouri/world_bank_ed">
+            <a href="https://github.com/joycekuohmoukouri/World_bank_Ed">
                 <img src="World-Bank-2-e1602236656825-1280x720.png" alt="Project 2">
             </a>
-            <div class="caption"> Exploratory Analysis of the WORLD BANK education data </div>
+            <div class="caption"> EDA of the WORLD BANK education systems data </div>
         </div>
         <div class="figure-container">
-            <a href="https://github.com/joycekuohmoukouri/snack">
-                <img src="csm_werthers-original-caramel-popcorn-clusters-2x_f767ddf628.jpeg" alt="Project 3">
+            <a href="https://github.com/username/Snack">
+                <img src="shutterstock_273975992.jpg" alt="Project 3">
             </a>
-            <div class="caption"> Parisians, don't snack in the metro. </div>
+            <div class="caption"> Parisians, don't snack in the metro.  </div>
         </div>           
         <div class="figure-container">
-            <a href="https://github.com/joycekuohmoukouri/seattle_net_zero">
-            <img src="4200.jpeg" alt="Project 4">
+            <a href="https://github.com/username/Seattle">
+                <img src="4200.jpeg" alt="Project 4">
             </a>
-            <div class="caption"> Regression model for Seattle (WA) Net Zero Goal </div>
+            <div class="caption"> Seattle (WA): Objective Net Zero | Prediction of the greenhouse gaz emission and energy consumption of Seattle buildings </div>
         </div>
         <div class="figure-container">
-            <a href="https://github.com/joycekuohmoukouri/olist_client_segmentation">
-                <img src="harvest-brussels-sprouts-7567350-1b2c32a48fcd41899a2d7c26379d4dc2.jpeg" alt="Project 5">
+            <a href="https://github.com/username/Segmentation">
+                <img src="images-2.jpeg" alt="Project 5">
             </a>
-            <div class="caption">Clustering model for client segmentation, spoiler : some will always be unhappy </div>
+            <div class="caption">Client segmentation for OLIST | spoiler : some will always be unhappy </div>
         </div>
         <div class="figure-container">
-            <a href="https://github.com/joycekuohmoukouri/neural_networks_tidying">
-                <img src="los-pulpos-son-unos-depredadores-formidables_a96affba_1254x836.jpeg" alt="Project 6">
+            <a href="https://github.com/username/Class_1">
+                <img src="images-4.jpeg" alt="Project 6">
             </a>
-            <div class="caption"> Deep learning for a multi-class classification model, if it sparks joy tidy it right </div>
+            <div class="caption"> Deep learning for a multi-class classification model |  </div>
         </div>
         <div class="figure-container">
-            <a href="https://github.com/joycekuohmoukouri/creditworthiness-scoring">
-                <img src="Coins-main.jpg" alt="Project 7">
+            <a href="https://github.com/username/Creditworthiness">
+                <img src="images-5.jpeg" alt="Project 7">
             </a>
-            <div class="caption"> Creditworthiness scoring model, Dashboard for a transparent approach (near completion) </div>
+            <div class="caption">Project 7: Description goes here</div>
+        </div>
+        <div class="figure-container">
+            <a href="https://github.com/username/project8">
+                <img src="images-6.jpeg" alt="Project 8">
+            </a>
+            <div class="caption">Project 8: Description goes here</div>
+        </div>
+        <div class="figure-container">
+            <a href="https://github.com/username/project9">
+                <img src="images.jpeg" alt="Project 9">
+            </a>
+            <div class="caption">Project 9: Description goes here</div>
+        </div>
         </div>
     </div>
 </body>
 </html>
+
