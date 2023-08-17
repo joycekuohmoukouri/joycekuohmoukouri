@@ -66,7 +66,7 @@
             <a href="https://github.com/username/Seattle">
                 <img src="4200.jpeg" alt="Project 4">
             </a>
-            <div class="caption"> Seattle (WA) Net Zero Goal | Prediction of CO2 emissions of Seattle buildings </div>
+            <div class="caption"> Regression model for Seattle (WA) Net Zero Goal </div>
         </div>
         <div class="figure-container">
             <a href="https://github.com/username/Segmentation">
@@ -84,7 +84,7 @@
             <a href="https://github.com/username/Creditworthiness_score">
                 <img src="Coins-main.jpg" alt="Project 7">
             </a>
-            <div class="caption"> Creditworthiness scoring | prediction API and Dashboard </div>
+            <div class="caption"> Creditworthiness scoring model | Dashboard for a transparent approach </div>
         </div>
     </div>
 </body>
