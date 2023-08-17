@@ -22,8 +22,8 @@
            position: absolute;
             top: 0;
             left: 0;
-            width: 50%;
-            height: 50%;
+            width: 80%;
+            height: 80%;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -32,7 +32,7 @@
             text-align: center;
             opacity: 0;
             transition: opacity 0.3s;
-            font-family: Helvetica Neue, Arial, sans-serif;/* Add the chosen font here */
+            font-family: Arial, sans-serif;/* Add the chosen font here */
         }
         .figure-container:hover .caption {
             opacity: 1;
