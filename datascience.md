@@ -57,7 +57,8 @@
             <div class="caption"> Parisians, don't snack in the metro. </div>
         </div>           
         <div class="figure-container">
-            <a href="https://github.com/joycekuohmoukouri/seattle_net_zero"><img src="4200.jpeg" alt="Project 4">
+            <a href="https://github.com/joycekuohmoukouri/seattle_net_zero">
+            <img src="4200.jpeg" alt="Project 4">
             </a>
             <div class="caption"> Regression model for Seattle (WA) Net Zero Goal </div>
         </div>
