@@ -58,7 +58,7 @@
             <a href="https://github.com/joycekuohmoukouri/Snack">
                 <img src="csm_werthers-original-caramel-popcorn-clusters-2x_f767ddf628.jpeg" alt="Project 3">
             </a>
-            <div class="caption"> Parisians, don't snack in the metro.  </div>
+            <div class="caption"> Parisians, don't snack in the metro. </div>
         </div>           
         <div class="figure-container">
             <a href="https://github.com/joycekuohmoukouri/SeattleNetZero">
@@ -82,7 +82,7 @@
             <a href="https://github.com/joycekuohmoukouri/Creditworthiness-scoring">
                 <img src="Coins-main.jpg" alt="Project 7">
             </a>
-            <div class="caption"> Creditworthiness scoring model, Dashboard for a transparent approach </div>
+            <div class="caption"> Creditworthiness scoring model, Dashboard for a transparent approach (near completion) </div>
         </div>
     </div>
 </body>
