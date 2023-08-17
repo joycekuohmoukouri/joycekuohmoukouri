@@ -36,8 +36,7 @@
         }
         .caption-wrapper {
             max-width: 60%; /* Adjust the width as needed */
-            text-align: center;
-        }
+            text-align: center;}
         }
         .figure-container:hover .caption {
             opacity: 1;
