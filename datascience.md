@@ -1,5 +1,5 @@
 # **Joyce Kuoh Moukouri**
-## [Home](README.md) • [Data Science Projects](datascience.md) • [Resume](CV_JKM_2023_eng.pdf) 
+## [Home](README.md) • [Data Science Projects](datascience.md) • [Resume](CV_JKM_2023_eng_online.pdf) 
 ---
 ## Data Science Projects
 ---
