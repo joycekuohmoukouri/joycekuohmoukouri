@@ -1,7 +1,1 @@
-/* <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Your+Chosen+Font&display=swap"> */
-@font-face {
-    font-family: 'Archivo Black';
-    src: url('ArchivoBlack-Regular.ttf') format('truetype'); /* Corrected format */
-    font-weight: normal;
-    font-style: normal;
-}
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Your+Chosen+Font&display=swap"> 
