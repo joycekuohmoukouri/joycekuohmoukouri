@@ -3,11 +3,10 @@
 ---
 ## Data Science Projects
 ---
+<!DOCTYPE html>
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<head>
     <style>
         .grid-container {
             display: grid;
@@ -36,7 +35,7 @@
         }
         .caption-wrapper {
             max-width: 60%; /* Adjust the width as needed */
-            text-align: center;}
+            text-align: center;
         }
         .figure-container:hover .caption {
             opacity: 1;
@@ -89,11 +88,3 @@
     </div>
 </body>
 </html>
-
-
-
-
-
-
-
-
