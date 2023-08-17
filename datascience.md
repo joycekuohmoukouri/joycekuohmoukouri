@@ -54,7 +54,7 @@
         </div>
         <div class="figure-container">
             <a href="https://github.com/username/Snack">
-                <img src="shutterstock_273975992.jpg" alt="Project 3">
+                <img src="csm_werthers-original-caramel-popcorn-clusters-2x_f767ddf628.jpeg" alt="Project 3">
             </a>
             <div class="caption"> Parisians, don't snack in the metro.  </div>
         </div>           
