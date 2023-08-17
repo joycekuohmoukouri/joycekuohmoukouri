@@ -35,7 +35,7 @@
             font-family: 'Archivo Black';sans-serif; /* Add the chosen font here */
         }
         .caption-wrapper {
-            max-width: 80%; /* Adjust the width as needed */
+            max-width: 70%; /* Adjust the width as needed */
             text-align: center;
         }
         .figure-container:hover .caption {
