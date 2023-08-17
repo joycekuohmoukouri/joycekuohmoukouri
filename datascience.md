@@ -6,6 +6,8 @@
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<head>
     <style>
         .grid-container {
             display: grid;
