@@ -78,7 +78,7 @@
             <a href="https://github.com/username/Neural_Networks">
                 <img src="los-pulpos-son-unos-depredadores-formidables_a96affba_1254x836.jpeg" alt="Project 6">
             </a>
-            <div class="caption"> Deep learning for a multi-class classification model |  </div>
+            <div class="caption"> Deep learning for a multi-class classification model | if it sparks joy tidy it right </div>
         </div>
         <div class="figure-container">
             <a href="https://github.com/username/Creditworthiness_score">
