@@ -30,7 +30,7 @@
             text-align: center;
             opacity: 0;
             transition: opacity 0.3s;
-            font-family: 'Helvetica Neue', Arial, sans-serif;/* Add the chosen font here */
+            font-family: Helvetica Neue, Arial, sans-serif;/* Add the chosen font here */
         }
         .figure-container:hover .caption {
             opacity: 1;
