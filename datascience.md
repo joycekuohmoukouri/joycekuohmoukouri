@@ -52,7 +52,7 @@
             <a href="https://github.com/joycekuohmoukouri/World_bank_Ed">
                 <img src="World-Bank-2-e1602236656825-1280x720.png" alt="Project 2">
             </a>
-            <div class="caption"> Exploratory Analysis of the WORLD BANK education systems data </div>
+            <div class="caption"> Exploratory Analysis of the WORLD BANK education data </div>
         </div>
         <div class="figure-container">
             <a href="https://github.com/joycekuohmoukouri/Snack">
@@ -70,19 +70,19 @@
             <a href="https://github.com/joycekuohmoukouri/Olist_client_segmentation">
                 <img src="harvest-brussels-sprouts-7567350-1b2c32a48fcd41899a2d7c26379d4dc2.jpeg" alt="Project 5">
             </a>
-            <div class="caption">Clustering model for client segmentation | spoiler : some will always be unhappy </div>
+            <div class="caption">Clustering model for client segmentation, spoiler : some will always be unhappy </div>
         </div>
         <div class="figure-container">
             <a href="https://github.com/joycekuohmoukouri/Neural_Networks_tidying">
                 <img src="los-pulpos-son-unos-depredadores-formidables_a96affba_1254x836.jpeg" alt="Project 6">
             </a>
-            <div class="caption"> Deep learning for a multi-class classification model | if it sparks joy tidy it right </div>
+            <div class="caption"> Deep learning for a multi-class classification model, if it sparks joy tidy it right </div>
         </div>
         <div class="figure-container">
             <a href="https://github.com/joycekuohmoukouri/Creditworthiness_score">
                 <img src="Coins-main.jpg" alt="Project 7">
             </a>
-            <div class="caption"> Creditworthiness scoring model | Dashboard for a transparent approach </div>
+            <div class="caption"> Creditworthiness scoring model, Dashboard for a transparent approach </div>
         </div>
     </div>
 </body>
