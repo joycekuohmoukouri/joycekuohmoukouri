@@ -27,7 +27,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            background-color: rgba(0.1, 0, 0, 0.5); /* Dark semi-transparent background */
+            background-color: rgba(0, 0, 0, 0.5); /* Dark semi-transparent background */
             color: white;
             text-align: center;
             opacity: 0;
