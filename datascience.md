@@ -45,13 +45,13 @@
 <body>
     <div class="grid-container">
         <div class="figure-container">
-            <a href="https://github.com/joycekuohmoukouri/World_Bank_Ed">
+            <a href="https://github.com/joycekuohmoukouri/world_bank_ed">
                 <img src="World-Bank-2-e1602236656825-1280x720.png" alt="Project 2">
             </a>
             <div class="caption"> Exploratory Analysis of the WORLD BANK education data </div>
         </div>
         <div class="figure-container">
-            <a href="https://github.com/joycekuohmoukouri/Snack">
+            <a href="https://github.com/joycekuohmoukouri/snack">
                 <img src="csm_werthers-original-caramel-popcorn-clusters-2x_f767ddf628.jpeg" alt="Project 3">
             </a>
             <div class="caption"> Parisians, don't snack in the metro. </div>
