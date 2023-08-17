@@ -32,7 +32,7 @@
             text-align: center;
             opacity: 0;
             transition: opacity 0.3s;
-            font-family: 'Archivo Black';sans-serif; /* Add the chosen font here */
+            font-family: 'Archivo Black', sans-serif; /* Add the chosen font here */
         }
         .caption-wrapper {
             max-width: 70%; /* Adjust the width as needed */
