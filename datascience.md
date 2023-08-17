@@ -75,7 +75,7 @@
             <div class="caption">Clustering model for client segmentation | spoiler : some will always be unhappy </div>
         </div>
         <div class="figure-container">
-            <a href="https://github.com/joycekuohmoukouri/Neural_Networks">
+            <a href="https://github.com/joycekuohmoukouri/Neural_Networks_tidying">
                 <img src="los-pulpos-son-unos-depredadores-formidables_a96affba_1254x836.jpeg" alt="Project 6">
             </a>
             <div class="caption"> Deep learning for a multi-class classification model | if it sparks joy tidy it right </div>
