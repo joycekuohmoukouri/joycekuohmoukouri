@@ -31,7 +31,7 @@
             text-align: center;
             opacity: 0;
             transition: opacity 0.3s;
-            font-family: Helvetica Neue, Arial, sans-serif;/* Add the chosen font here */
+            font-family: Arial, sans-serif;/* Add the chosen font here */
         }
         .figure-container:hover .caption {
             opacity: 1;
@@ -58,7 +58,7 @@
             <div class="caption"> Parisians, don't snack in the metro. </div>
         </div>           
         <div class="figure-container">
-            <a href="https://github.com/joycekuohmoukouri/Seattle_Net_Zero"><img src="4200.jpeg" alt="Project 4">
+            <a href="https://github.com/joycekuohmoukouri/seattle_net_zero"><img src="4200.jpeg" alt="Project 4">
             </a>
             <div class="caption"> Regression model for Seattle (WA) Net Zero Goal </div>
         </div>
@@ -69,13 +69,13 @@
             <div class="caption">Clustering model for client segmentation, spoiler : some will always be unhappy </div>
         </div>
         <div class="figure-container">
-            <a href="https://github.com/joycekuohmoukouri/Neural_Networks_tidying">
+            <a href="https://github.com/joycekuohmoukouri/neural_networks_tidying">
                 <img src="los-pulpos-son-unos-depredadores-formidables_a96affba_1254x836.jpeg" alt="Project 6">
             </a>
             <div class="caption"> Deep learning for a multi-class classification model, if it sparks joy tidy it right </div>
         </div>
         <div class="figure-container">
-            <a href="https://github.com/joycekuohmoukouri/Creditworthiness-scoring">
+            <a href="https://github.com/joycekuohmoukouri/creditworthiness-scoring">
                 <img src="Coins-main.jpg" alt="Project 7">
             </a>
             <div class="caption"> Creditworthiness scoring model, Dashboard for a transparent approach (near completion) </div>
