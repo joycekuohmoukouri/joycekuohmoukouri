@@ -45,7 +45,7 @@
 <body>
     <div class="grid-container">
         <div class="figure-container">
-            <a href=["World_Bank_Ed"](https://github.com/joycekuohmoukouri/World_Bank_Ed)>
+            <a href=https://github.com/joycekuohmoukouri/World_Bank_Ed>
                 <img src="World-Bank-2-e1602236656825-1280x720.png" alt="Project 2">
             </a>
             <div class="caption"> Exploratory Analysis of the WORLD BANK education data </div>
