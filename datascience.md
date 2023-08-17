@@ -32,7 +32,7 @@
             text-align: center;
             opacity: 0;
             transition: opacity 0.3s;
-            font-family: Helvetica, sans-serif; /* Add the chosen font here */
+            font-family: 'Helvetica Neue', Arial, sans-serif;/* Add the chosen font here */
         }
         .caption-wrapper {
             max-width: 60%; /* Adjust the width as needed */
